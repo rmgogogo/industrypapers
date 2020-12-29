@@ -9,6 +9,9 @@
 Recommendation in Alibaba](https://arxiv.org/pdf/1803.02349.pdf)
     - Video: https://www.youtube.com/watch?v=TLD_bSiHZdE
 
+- 2001, [Item-Based Collaborative Filtering Recommendation
+Algorithms](http://www.ra.ethz.ch/cdstore/www10/papers/pdf/p519.pdf)
+
 ## Bidding
 - 2020 Alibaba, [Dynamic Knapsack Optimization Towards Efficient
 Multi-Channel Sequential Advertising](https://arxiv.org/pdf/2006.16312.pdf)
