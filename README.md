@@ -26,3 +26,6 @@ Multi-Channel Sequential Advertising](https://arxiv.org/pdf/2006.16312.pdf)
 # Big Company Blogs
 
 - [Pinterest](https://medium.com/@Pinterest_Engineering)
+- [Uber](https://eng.uber.com/)
+- [Airbnb](https://medium.com/airbnb-engineering)
+- [Facebook](https://engineering.fb.com/)
