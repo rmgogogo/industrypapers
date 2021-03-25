@@ -3,6 +3,8 @@
 ## Retrieving
 - 2020 ByteDance, [Deep Retrieval: An End-to-End Learnable Structure model for Large-Scale Recommendations](https://arxiv.org/pdf/2007.07203.pdf)
 
+- 2019 Google Ed Chi team, [Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/6c8a86c981a62b0126a11896b7f6ae0dae4c3566.pdf)
+
 - 2019 Alibaba TMALL, [MIND: Multi-Interest Network with Dynamic Routing](https://arxiv.org/abs/1904.08030)
 
 - 2018 Alibaba Taobao, [GNN, Billion-scale Commodity Embedding for E-commerce
