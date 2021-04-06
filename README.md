@@ -18,6 +18,8 @@ Algorithms](http://www.ra.ethz.ch/cdstore/www10/papers/pdf/p519.pdf)
 - 2020 Alibaba, [Dynamic Knapsack Optimization Towards Efficient
 Multi-Channel Sequential Advertising](https://arxiv.org/pdf/2006.16312.pdf)
 
+- 2012, Fallback with [Optimistic Bayesian Sampling](https://www.jmlr.org/papers/volume13/may12a/may12a.pdf)
+
 
 ## Notification
 
