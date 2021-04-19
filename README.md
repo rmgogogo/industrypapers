@@ -11,6 +11,8 @@
 Recommendation in Alibaba](https://arxiv.org/pdf/1803.02349.pdf)
     - Video: https://www.youtube.com/watch?v=TLD_bSiHZdE
 
+- 2016 Microsoft, [Item2Vec: Neural Item Embedding for Collaborative Filtering](https://arxiv.org/abs/1603.04259)
+
 - 2001, [Item-Based Collaborative Filtering Recommendation
 Algorithms](http://www.ra.ethz.ch/cdstore/www10/papers/pdf/p519.pdf)
 
