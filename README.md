@@ -39,3 +39,4 @@ Multi-Channel Sequential Advertising](https://arxiv.org/pdf/2006.16312.pdf)
 
 # Other list
 - [mJackie BAT](https://github.com/mJackie/RecSys#2018%E8%85%BE%E8%AE%AF%E5%B9%BF%E5%91%8A%E7%AE%97%E6%B3%95%E5%A4%A7%E8%B5%9B)
+- [Zhe Wang](https://github.com/wzhe06/Ad-papers)
