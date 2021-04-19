@@ -11,6 +11,8 @@
 Recommendation in Alibaba](https://arxiv.org/pdf/1803.02349.pdf)
     - Video: https://www.youtube.com/watch?v=TLD_bSiHZdE
 
+- 2018 Airbnb, [Real-time Personalization using Embeddings for Search Ranking at Airbnb](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/%5BAirbnb%20Embedding%5D%20Real-time%20Personalization%20using%20Embeddings%20for%20Search%20Ranking%20at%20Airbnb%20(Airbnb%202018).pdf)
+
 - 2016 Microsoft, [Item2Vec: Neural Item Embedding for Collaborative Filtering](https://arxiv.org/abs/1603.04259)
 
 - 2001, [Item-Based Collaborative Filtering Recommendation
