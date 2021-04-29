@@ -24,6 +24,11 @@ Multi-Channel Sequential Advertising](https://arxiv.org/pdf/2006.16312.pdf)
 
 - 2012, Fallback with [Optimistic Bayesian Sampling](https://www.jmlr.org/papers/volume13/may12a/may12a.pdf)
 
+## Coupon
+- https://www.weiran-shen.info/
+- 2021, ByteDance, [Coupon Design in Advertising Systems](https://www.weiran-shen.info/swr_page_files/coupon_design_in_advertising_systems.pdf)
+- 2020, ByteDance, [Learning to Design Coupons in Online Advertising Markets](http://ifaamas.org/Proceedings/aamas2020/pdfs/p1242.pdf)
+
 
 ## Notification
 
